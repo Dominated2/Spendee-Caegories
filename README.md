@@ -1,0 +1,2 @@
+# Spendee-Caegories
+all categories
